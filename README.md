@@ -1,5 +1,11 @@
 # 🌉 Smart Bridge Control using Moisture Sensor  
 
+## 📌 Project Status
+**Status:** Arduino smart-city prototype.  
+This repository contains a bridge-control simulation sketch using moisture/water sensing, servo movement, and alert indicators.
+
+---
+
 ## 📖 Project Overview  
 This project demonstrates a **Smart Bridge Control System** that monitors water/flood levels using a **soil/moisture sensor (or water sensor)**.  
 When the water level rises above a safe threshold, the system automatically triggers a **servo motor** to lift/open the bridge and alerts with LEDs/buzzer.  
